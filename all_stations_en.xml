@@ -1,0 +1,234 @@
+<GetAllStations xmlns="http://tempuri.org/"><languageId>3</languageId></GetAllStations><GetAllStationsResponse xmlns="http://tempuri.org/">
+ <GetAllStationsResult xmlns:a="http://schemas.datacontract.org/2004/07/Env.GPRD.BLL.ViewModel" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <a:StationInfoModel>
+   <a:Address>No. 11， Luhu Park, Guangzhou</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>23.1544</a:Latitude>
+   <a:Longitude>113.2765</a:Longitude>
+   <a:PositionName>Luhu</a:PositionName>
+   <a:StationCode>1005A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Modiesha Street, Haizhu District, Guangzhou</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>23.1064</a:Latitude>
+   <a:Longitude>113.3328</a:Longitude>
+   <a:PositionName>Modiesha</a:PositionName>
+   <a:StationCode>1091A</a:StationCode>
+   <a:StationLevel>0</a:StationLevel>
+   <a:StationType>Regional</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>S&amp;T Building, Nansha IT Park, No. 2 Huan Shi Da Dao Road, Nansha District, Guangzhou City, 511458, PRC.</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>22.7108</a:Latitude>
+   <a:Longitude>113.5485</a:Longitude>
+   <a:PositionName>Nansha HKUST</a:PositionName>
+   <a:StationCode>1002A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Regional</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Tianhu Park, Conghua, Guagnzhou</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>23.6502</a:Latitude>
+   <a:Longitude>113.6246</a:Longitude>
+   <a:PositionName>Tianhu</a:PositionName>
+   <a:StationCode>1001A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Regional</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Zhudong village committee, Chini Town, Huadu District, Guagnzhou</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>23.420833</a:Latitude>
+   <a:Longitude>113.073056</a:Longitude>
+   <a:PositionName>Zhudong</a:PositionName>
+   <a:StationCode>1140A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Regional</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Shennan Zhong Road, Futian District, Shenzhen</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>22.55</a:Latitude>
+   <a:Longitude>114.0958</a:Longitude>
+   <a:PositionName>Tongxinling</a:PositionName>
+   <a:StationCode>1021A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Foshan City Communist Party School, Jinjuzui, Shunde District, Foshan</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>22.819722</a:Latitude>
+   <a:Longitude>113.261667</a:Longitude>
+   <a:PositionName>Jinjuzui</a:PositionName>
+   <a:StationCode>1034A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>No. 127, Fenjiang Nan Road, Chancheng District, Foshan</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>23.0019</a:Latitude>
+   <a:Longitude>113.1047</a:Longitude>
+   <a:PositionName>Huijingcheng</a:PositionName>
+   <a:StationCode>1033A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Qiao Island Mangrove Monitoring Station, Tangjia Town, Zhuhai</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>22.4212</a:Latitude>
+   <a:Longitude>113.63587</a:Longitude>
+   <a:PositionName>Tangjia</a:PositionName>
+   <a:StationCode>1032A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Donghu Park, Jiangmen</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>22.5931</a:Latitude>
+   <a:Longitude>113.0819</a:Longitude>
+   <a:PositionName>Donghu</a:PositionName>
+   <a:StationCode>1044A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Duanfen Middle School, Taishan, Jiangmen</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>22.0608</a:Latitude>
+   <a:Longitude>112.7607</a:Longitude>
+   <a:PositionName>Duanfen</a:PositionName>
+   <a:StationCode>1075A</a:StationCode>
+   <a:StationLevel>2</a:StationLevel>
+   <a:StationType>Regional</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Huaguoshan, Taoyuan, Heshan City, Jiangmen</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>22.7279</a:Latitude>
+   <a:Longitude>112.929</a:Longitude>
+   <a:PositionName>Huaguoshan</a:PositionName>
+   <a:StationCode>1076ASP01</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Regional</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>No. 17, Qintian Road, Zhaoqing</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>23.0528</a:Latitude>
+   <a:Longitude>112.4708</a:Longitude>
+   <a:PositionName>Chengzhong</a:PositionName>
+   <a:StationCode>1046A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>No. 4 Xiabuhengjiang Road No. 3, Huizhou</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>23.08</a:Latitude>
+   <a:Longitude>114.4053</a:Longitude>
+   <a:PositionName>Xiapu</a:PositionName>
+   <a:StationCode>1049A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Xijiao village committee,  Boluo County, Huizhou</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>23.3406</a:Latitude>
+   <a:Longitude>114.1077</a:Longitude>
+   <a:PositionName>Xijiao</a:PositionName>
+   <a:StationCode>1139A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Regional</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Jinguowan Ecological Farm, Huizhou</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>22.9398</a:Latitude>
+   <a:Longitude>114.3806</a:Longitude>
+   <a:PositionName>Jinguowan</a:PositionName>
+   <a:StationCode>1051A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Regional</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Zimaling Park, Zhongshan</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>22.5078</a:Latitude>
+   <a:Longitude>113.4017</a:Longitude>
+   <a:PositionName>Zimaling</a:PositionName>
+   <a:StationCode>1061A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Nanchengyuanling Community, Dongguan</a:Address>
+   <a:AreaId>1</a:AreaId>
+   <a:Latitude>23.027778</a:Latitude>
+   <a:Longitude>113.746111</a:Longitude>
+   <a:PositionName>Nanchengyuanling</a:PositionName>
+   <a:StationCode>1052A</a:StationCode>
+   <a:StationLevel>1</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Tap Mun Police Station, Hong Kong</a:Address>
+   <a:AreaId>2</a:AreaId>
+   <a:Latitude>22.47306</a:Latitude>
+   <a:Longitude>114.35806</a:Longitude>
+   <a:PositionName>Tap Mun</a:PositionName>
+   <a:StationCode>1143A</a:StationCode>
+   <a:StationLevel>2</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>60 Tai Ho Road, Tsuen Wan, Hong Kong</a:Address>
+   <a:AreaId>2</a:AreaId>
+   <a:Latitude>22.37333</a:Latitude>
+   <a:Longitude>114.11222</a:Longitude>
+   <a:PositionName>Tsuen Wan</a:PositionName>
+   <a:StationCode>1142A</a:StationCode>
+   <a:StationLevel>2</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Yuen Long District Office, 269 Castle Peak Road, Hong Kong</a:Address>
+   <a:AreaId>2</a:AreaId>
+   <a:Latitude>22.446667</a:Latitude>
+   <a:Longitude>114.020278</a:Longitude>
+   <a:PositionName>Yuen Long</a:PositionName>
+   <a:StationCode>1161A</a:StationCode>
+   <a:StationLevel>2</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>6 Fu Tung Street, Tung Chung, Hong Kong</a:Address>
+   <a:AreaId>2</a:AreaId>
+   <a:Latitude>22.29028</a:Latitude>
+   <a:Longitude>113.94111</a:Longitude>
+   <a:PositionName>Tung Chung</a:PositionName>
+   <a:StationCode>1144A</a:StationCode>
+   <a:StationLevel>2</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+  <a:StationInfoModel>
+   <a:Address>Taipa Grande, Macau</a:Address>
+   <a:AreaId>3</a:AreaId>
+   <a:Latitude>22.1586</a:Latitude>
+   <a:Longitude>113.5662</a:Longitude>
+   <a:PositionName>Taipa Grande</a:PositionName>
+   <a:StationCode>1145A</a:StationCode>
+   <a:StationLevel>2</a:StationLevel>
+   <a:StationType>Urban</a:StationType>
+  </a:StationInfoModel>
+ </GetAllStationsResult>
+</GetAllStationsResponse>
