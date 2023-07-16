@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Mac OS specific
+.DS_Store
+
 # C extensions
 *.so
 
@@ -141,4 +144,5 @@ cython_debug/
 .idea/
 
 # downloaded data files
+data/
 *.dat
